@@ -1,0 +1,14 @@
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\bin\Debug\netcoreapp2.2\WEBAPICoba4.deps.json
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\bin\Debug\netcoreapp2.2\WEBAPICoba4.runtimeconfig.json
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\bin\Debug\netcoreapp2.2\WEBAPICoba4.runtimeconfig.dev.json
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\bin\Debug\netcoreapp2.2\WEBAPICoba4.dll
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.csproj.CoreCompileInputs.cache
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.RazorAssemblyInfo.cache
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.RazorAssemblyInfo.cs
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.AssemblyInfoInputs.cache
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.AssemblyInfo.cs
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.RazorTargetAssemblyInfo.cache
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\bin\Debug\netcoreapp2.2\WEBAPICoba4.pdb
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.csprojAssemblyReference.cache
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.dll
+C:\Users\Sukanda\source\repos\WEBAPICoba4\WEBAPICoba4\obj\Debug\netcoreapp2.2\WEBAPICoba4.pdb
